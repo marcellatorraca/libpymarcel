@@ -2,6 +2,7 @@ flake8==3.8.3
 mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
+
 # Deps do pytest
 py==1.9.0
 pluggy==0.13.1
@@ -9,4 +10,9 @@ attrs==20.2.0
 atomicwrites==1.4.0
 iniconfig==1.0.1
 pytest==6.1.0
+
+# Covarage
+coverage==5.3
+pytest-cov==2.10.1
+
 -r requirements.txt
