@@ -10,6 +10,7 @@ attrs==20.2.0
 atomicwrites==1.4.0
 iniconfig==1.0.1
 pytest==6.1.1
+pytest-mock==3.3.1
 
 # Covarage
 coverage==5.3
